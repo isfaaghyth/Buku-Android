@@ -1,7 +1,7 @@
 # Buku-Android
 Pustaka
 
-Beginner
+### Beginner
 
 `SYARAT:Pemrograman Java, dan Object Oriented Programming.`
 - [x] Pengantar Android
@@ -59,8 +59,9 @@ Beginner
   - [ ] **Final Project**
     - Aplikasi Catatan (Note App) dilengkapi autentikasi user login dan menggunakan Realm.
   
- 
-Intermediate
+
+
+### Intermediate
 
 `SYARAT:Pemrograman Java, dan Object Oriented Programming, pemrograman PHP menengah.`
 Secara garis beras, di buku ini akan membahas hal-hal berikut:
