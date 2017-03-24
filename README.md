@@ -48,6 +48,6 @@ Beginner
       - [ ] SharedPreferences
     - [ ] *Contoh Implementasi Sederhana Database
   - [ ] **Final Project**
-    - APLIKASI: Catatan dilengkapi autentikasi user login dan menggunakan Realm.
+    - Aplikasi Catatan (Note App) dilengkapi autentikasi user login dan menggunakan Realm.
   
  
