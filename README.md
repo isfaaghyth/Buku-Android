@@ -1,5 +1,7 @@
 # Buku-Android
-Pustaka
+Daftar isi buku pemrograman Android untuk kelas _Beginner_ dan _Intermediate_. Menggunakan teknologi terkini yang sesuai dengan kebutuhan saat ini. Rencana, akan ditulis secara komprehensif dan mudah dipahami.
+
+@isfaaghyth
 
 ### Beginner
 
