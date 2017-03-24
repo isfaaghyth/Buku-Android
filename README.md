@@ -64,6 +64,7 @@ Pustaka
 ### Intermediate
 
 `SYARAT:Pemrograman Java, dan Object Oriented Programming, pemrograman PHP menengah.`
+
 Secara garis beras, di buku ini akan membahas hal-hal berikut:
 - [ ] Android Pattern
   - [ ] MVP beserta contoh implementasi
