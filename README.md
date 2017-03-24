@@ -28,7 +28,16 @@ Beginner
   - [x] Antarmuka Android
     - [x] Pengenalan XML
     - [x] Pengenalan dan Pengaturan UI Layout
+      - [x] Linearlayout
+      - [x] Relativelayout
+      - [x] Framelayout
+      - [x] Constraintlayout
     - [x] Pengelolaan Component Controls
+      - [x] Recyclerview
+      - [x] Cardview
+      - [x] Textview
+      - [x] Edittext
+      - [x] more . . .
     - [x] Implementasi Component Event Handling
     - [x] Gaya dan Tema Aplikasi
     - [x] Kustomisasi Komponen
@@ -51,3 +60,37 @@ Beginner
     - Aplikasi Catatan (Note App) dilengkapi autentikasi user login dan menggunakan Realm.
   
  
+Intermediate
+
+`SYARAT:Pemrograman Java, dan Object Oriented Programming, pemrograman PHP menengah.`
+Secara garis beras, di buku ini akan membahas hal-hal berikut:
+- [ ] Android Pattern
+  - [ ] MVP beserta contoh implementasi
+  - [ ] MVVM beserta contoh implementasi
+  - [ ] *_Refactoring_ project menggunakan arsitektur MVP
+- [ ] ReactiveX Pattern
+- [ ] Network Communication
+    - [ ] Server Interactive
+      - [ ] Pengenalan API dan _Life cycle_ network communicator
+      - [ ] Membuat web services sederhana
+    - [ ] Client Request
+      - [ ] Retrofit dan okhttp
+      - [ ] Volley
+      - [ ] Object Parsing
+        - [ ] Jackson
+        - [ ] Gson
+- [ ] Connection and Data Handling
+- [ ] Pengenalan Cloud Services
+  - [ ] Pengenalan Firebase
+  - [ ] Crash Reporting
+  - [ ] *Contoh impelemntasi sederhana
+- [ ] Pengenalan dan contoh implementasi TTD
+  - [ ] Junit4
+  - [ ] Espresso
+  - [ ] Mockito
+- [ ] Membuat Library sederhana
+- [ ] **Final Project**
+  - Movie app menggunakan API dari [themoviedb.org](themoviedb.org) dengan kriteria sebagai berikut:
+    - Menggunakan MVP Pattern
+    - Implementasi Rx architecture
+    - Menggunakan Retrofit dan gson
