@@ -1,7 +1,6 @@
-# Buku-Android
+# Android Pustaka
 Daftar isi buku pemrograman Android untuk kelas _Beginner_ dan _Intermediate_. Menggunakan teknologi terkini yang sesuai dengan kebutuhan saat ini. Rencana, akan ditulis secara komprehensif dan mudah dipahami.
 
-@isfaaghyth
 
 ### Beginner
 
@@ -98,3 +97,8 @@ Secara garis beras, di buku ini akan membahas hal-hal berikut:
     - Menggunakan MVP Pattern
     - Implementasi Rx architecture
     - Menggunakan Retrofit dan gson
+
+
+Penyusun,
+
+[@isfaaghyth](https://twitter.com/isfahanighiyath)
