@@ -27,7 +27,7 @@ Beginner
     - [x] *Contoh Project _Hello World_ sederhana
   - [x] Antarmuka Android
     - [x] Pengenalan XML
-    - [x] Mengatur UI Layout
+    - [x] Pengenalan dan Pengaturan UI Layout
     - [x] Pengelolaan Component Controls
     - [x] Implementasi Component Event Handling
     - [x] Gaya dan Tema Aplikasi
@@ -40,5 +40,14 @@ Beginner
     - [ ] Internet Request
     - [ ] GPS Location
     - [ ] Runtime Permission
-  - [ ] 
+  - [ ] Data Penyimpanan
+    - [ ] Pengantar Database
+    - [ ] Macam-macam Database
+      - [ ] (SQL) SQLite
+      - [ ] (NoSQL) Realm
+      - [ ] SharedPreferences
+    - [ ] *Contoh Implementasi Sederhana Database
+  - [ ] **Final Project**
+    - APLIKASI: Catatan dilengkapi autentikasi user login dan menggunakan Realm.
+  
  
