@@ -40,7 +40,7 @@ Daftar isi buku pemrograman Android untuk kelas _Beginner_ dan _Intermediate_. M
         - [x] Textview
         - [x] Edittext
         - [x] more . . .
-      - [x] View Injection
+      - [x] Pengenalan View Injection
     - [x] Implementasi Component Event Handling
     - [x] Gaya dan Tema Aplikasi
     - [x] Kustomisasi Komponen
