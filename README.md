@@ -34,11 +34,13 @@ Daftar isi buku pemrograman Android untuk kelas _Beginner_ dan _Intermediate_. M
       - [x] Framelayout
       - [x] Constraintlayout
     - [x] Pengelolaan Component Controls
-      - [x] Recyclerview
-      - [x] Cardview
-      - [x] Textview
-      - [x] Edittext
-      - [x] more . . .
+      - [x] Pengenalan
+        - [x] Recyclerview
+        - [x] Cardview
+        - [x] Textview
+        - [x] Edittext
+        - [x] more . . .
+      - [x] View Injection
     - [x] Implementasi Component Event Handling
     - [x] Gaya dan Tema Aplikasi
     - [x] Kustomisasi Komponen
@@ -66,7 +68,7 @@ Daftar isi buku pemrograman Android untuk kelas _Beginner_ dan _Intermediate_. M
 
 `SYARAT:Pemrograman Java, dan Object Oriented Programming, pemrograman PHP menengah.`
 
-Secara garis beras, di buku ini akan membahas hal-hal berikut:
+Secara garis besar, di buku ini akan membahas hal-hal berikut:
 - [ ] Android Pattern
   - [ ] MVP beserta contoh implementasi
   - [ ] MVVM beserta contoh implementasi
@@ -83,6 +85,7 @@ Secara garis beras, di buku ini akan membahas hal-hal berikut:
         - [ ] Jackson
         - [ ] Gson
 - [ ] Connection and Data Handling
+- [ ] Dependency Injection
 - [ ] Pengenalan Cloud Services
   - [ ] Pengenalan Firebase
   - [ ] Crash Reporting
